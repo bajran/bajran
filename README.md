@@ -24,8 +24,8 @@
 
 <h3 align="left">Projects</h3>
 <ul>
-<li>Go Corona <a href="https://github.com/bajran/corona-tracker" target="_blank" rel="noreferrer">Link</a></li>
-<li>CSS Dashboard <a href="https://bajran.github.io/Project-Analytics---CSS" target="_blank" rel="noreferrer">Link</a></li>
+<li>React - Go Corona <a href="https://github.com/bajran/corona-tracker" target="_blank" rel="noreferrer">Link</a></li>
+<li>CSS - Dashboard <a href="https://bajran.github.io/Project-Analytics---CSS" target="_blank" rel="noreferrer">Link</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
