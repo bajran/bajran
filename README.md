@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aks </h1>
-<h3 align="center">frontend dev</h3>
+<h3 align="center">frontend developer</h3>
 
 - 🌱 I’m currently working on **JS | TS | React | Redux-toolkit | React-query**
 
